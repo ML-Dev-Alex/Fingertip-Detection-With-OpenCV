@@ -8,7 +8,7 @@ https://docs.google.com/document/d/1HHe-Y8VFBjYF_jJnq5u_BSTIz_wiAwwxyFKSPfaBNAY/
 
 <p align="center">
  <a href="https://docs.google.com/document/d/1HHe-Y8VFBjYF_jJnq5u_BSTIz_wiAwwxyFKSPfaBNAY/edit?usp=sharing">
-  <img width="1200" height="1000" src="p_hand_hull_1.jpg">
+  <img width="995" height="762" src="p_hand_hull_1.jpg">
   </a>
 </p>
 
