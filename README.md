@@ -5,3 +5,8 @@ Follow this link or click the image to read a document detailing the implementat
  
 https://docs.google.com/document/d/1HHe-Y8VFBjYF_jJnq5u_BSTIz_wiAwwxyFKSPfaBNAY/edit?usp=sharing
 
+
+<p align="center">
+  <img width="1200" height="200" src="p_hand_hull_1.jpg" href="https://docs.google.com/document/d/1HHe-Y8VFBjYF_jJnq5u_BSTIz_wiAwwxyFKSPfaBNAY/edit?usp=sharing">
+</p>
+
